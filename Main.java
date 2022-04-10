@@ -24,7 +24,3 @@ public class Main {
         System.out.println("Mortgage: " + NumberFormat.getCurrencyInstance().format(mortgage));
     }
 }
-/**
- * Asks for Principle, Annual Interest Rate, Period in Years
- * Outputs: Mortgage in Monthly payments formatted with currency format
- */
